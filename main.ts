@@ -1,5 +1,7 @@
 // The Absurd Clause Contest: a deadpan terms-of-service clause that quietly
 // turns absurd — the user lends the Company their soul every second Tuesday.
+// The joke lands through the legal register itself: boilerplate until the
+// absurdity hits, then it is too late to unread it.
 // This program writes that one clause to /output/entry.txt for the gate.
 import * as fs from 'node:fs';
 import * as path from 'node:path';
